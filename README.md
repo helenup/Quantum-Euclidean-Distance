@@ -1,7 +1,7 @@
 # Quantum-Euclidean-Distance
 Quantum Euclidean Distance using Qiskit
 
-This notebook presents the calculation of the well known Euclidean Distance in its Quantum Version using Qiskit.
+This notebook presents the calculation of the well known Euclidean Distance in its Quantum Version using Qiskit: [Quantum_ED.ipynb](https://github.com/helenup/Quantum-Euclidean-Distance/blob/main/Quantum_ED.ipynb)
 
 First step is to encode classical data into quantum states: Amplitude embedding, angle embedding, basis embedding and so on. 
 
